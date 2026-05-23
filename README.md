@@ -12,6 +12,7 @@ Topics covered include OWASP Top 10, web security hardening, security tooling in
 | Write-up | Topics |
 |---|---|
 | [HTTP Security Headers: A Practical Deep Dive](./web-security/HTTP-Security-Headers-Deep-Dive.md) | CSP, HSTS, X-Frame-Options, OWASP mapping, testing |
+| [OWASP A01: Broken Access Control](./web-security/OWASP-A01-Broken-Access-Control.md) | IDOR, privilege escalation, JWT tampering, path traversal, CORS |
 
 *More write-ups added regularly.*
 
