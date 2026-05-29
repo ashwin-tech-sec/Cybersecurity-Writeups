@@ -14,6 +14,12 @@ Topics covered include OWASP Top 10, web security hardening, security tooling in
 | [HTTP Security Headers: A Practical Deep Dive](./web-security/HTTP-Security-Headers-Deep-Dive.md) | CSP, HSTS, X-Frame-Options, OWASP mapping, testing |
 | [OWASP A01: Broken Access Control](./web-security/OWASP-A01-Broken-Access-Control.md) | IDOR, privilege escalation, JWT tampering, path traversal, CORS |
 
+### DevSecOps
+
+| Write-up | Topics |
+|----------|--------|
+| [Shift Left Security](https://github.com/ashwin-tech-sec/Cybersecurity-Writeups/blob/main/devsecops/shift-left-security.md) | SAST, SCA, IaC Scanning, Secrets Detection, CI/CD |
+
 *More write-ups added regularly.*
 
 ---
@@ -21,6 +27,7 @@ Topics covered include OWASP Top 10, web security hardening, security tooling in
 ## 🛠️ Related Projects
 
 - [web-security-scanner](https://github.com/ashwin-tech-sec/web-security-scanner) — Python tool to scan websites for security misconfigurations and missing headers
+- [idor-tester](https://github.com/ashwin-tech-sec/idor-tester) — Tool for testing IDOR vulnerabilities
 
 ---
 
